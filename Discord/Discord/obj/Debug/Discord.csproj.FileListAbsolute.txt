@@ -1,0 +1,10 @@
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\bin\Debug\Discord.dll
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\bin\Debug\Discord.pdb
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\bin\Debug\Advanced Combat Tracker.exe
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\bin\Debug\GammaJul.LgLcd.dll
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\bin\Debug\Advanced Combat Tracker.xml
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\bin\Debug\Advanced Combat Tracker.exe.config
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\obj\Debug\Discord.csprojResolveAssemblyReference.cache
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\obj\Debug\Discord.dll
+C:\Users\epboi\Documents\repo\Discord\Discord\Discord\obj\Debug\Discord.pdb
